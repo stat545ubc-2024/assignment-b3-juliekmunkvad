@@ -51,7 +51,7 @@ The project files are structured as follows:
 
 The app is hosted on ShinyApps.io for convenient access. Open the link below in your browser to launch the app:
 
-[Gaming Meets Data: Steam Insights on ShinyApps.io]([https://your-shinyapp-url.shinyapps.io/SteamGamesExplorer/](https://juliekmunkvad.shinyapps.io/assignment-b3-juliekmunkvad/))
+[Gaming Meets Data: Steam Insights on ShinyApps.io](https://juliekmunkvad.shinyapps.io/assignment-b3-juliekmunkvad/)
 
 ---
 
