@@ -43,7 +43,6 @@ The project files are structured as follows:
 - `README.md`: This file provides an overview of the project, its features, and instructions for running the app.
 - `app.R`: The main source code file for the Shiny app. This file contains both the UI and server logic to run the application.
 - `rsconnect/shinyapps.io/juliekmunkvad/`: A folder containing deployment-related files for publishing the app to ShinyApps.io.
-- 
 ---
 
 ## How to Run the App
