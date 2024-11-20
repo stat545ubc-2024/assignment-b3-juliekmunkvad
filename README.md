@@ -64,8 +64,9 @@ To run the app locally, follow these steps:
    git clone https://github.com/stat545ubc-2024/assignment-b3-juliekmunkvad.git
 
 2. Ensure that the required packages are installed:
+   ```bash
    install.packages(c("shiny", "tidyverse", "DT", "datateachr"))
 
-3. Open the app.R file in RStudio.
+4. Open the app.R file in RStudio.
    
-4. Click the "Run App" button to launch the application.
+5. Click the "Run App" button to launch the application.
