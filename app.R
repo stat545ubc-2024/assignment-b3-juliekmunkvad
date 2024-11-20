@@ -24,7 +24,7 @@ missing_data <- sg_data %>%
 
 # User Interface
 ui <- fluidPage(
-  titlePanel("Steam Games Explorer"), # Application title
+  titlePanel("Gaming Meets Data: Steam Insights"), # Application title
   
   sidebarLayout(
     sidebarPanel(
