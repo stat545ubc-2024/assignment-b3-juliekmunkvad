@@ -1,9 +1,4 @@
----
-title: "Steam Games Explorer - README"
-output: github_document
----
-
-# Steam Games Explorer
+# Gaming Meets Data: Steam Insight
 
 Welcome to the application for **Gaming Meets Data: Steam Insights**! This project is a Shiny app that enables users to interactively explore and analyze data from Steam's gaming platform using the data set steam_games from the `datateachr` package. Through this app, users can gain insights into review trends, analyze missing data, and filter games based on various criteria.
 
