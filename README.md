@@ -1,4 +1,4 @@
-# Gaming Meets Data: Steam Insight
+# Gaming Meets Data: Steam Insights
 
 Welcome to the application for **Gaming Meets Data: Steam Insights**! This project is a Shiny app that enables users to interactively explore and analyze data from Steam's gaming platform using the data set steam_games from the `datateachr` package. Through this app, users can gain insights into review trends, analyze missing data, and filter games based on various criteria.
 
@@ -70,3 +70,12 @@ To run the app locally, follow these steps:
 4. Open the app.R file in RStudio.
    
 5. Click the "Run App" button to launch the application.
+
+---
+
+## Acknowledgements
+
+The dataset used in this project is sourced from the **`datateachr`** package, which provides a collection of datasets designed for educational purposes for use in courses at the University of British Columbia (UBC).
+
+For any questions, suggestions, or feedback, feel free to reach out or open an issue in the associated GitHub repository.
+
